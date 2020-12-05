@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "first_name": "khanh",
+      "last_name": "nuyen",
+      "email": "npkhanh17ck1@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "first_name": "khanh",
+      "last_name": "check",
+      "email": "khanh123@gmail.com",
+      "password": "123",
+      "id": 2
+    }
+  ]
+}
